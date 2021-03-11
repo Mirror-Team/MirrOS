@@ -8,3 +8,5 @@ MirrOS, the lightweight web operating system - do more, use less. MirrOS is stil
 > [![](https://img.shields.io/github/issues-pr/Mirror-Team/MirrOS?color=teal&style=flat-square)](https://github.com/Mirror-Team/MirrOS/pulls) 
 > [![](https://img.shields.io/github/license/Mirror-Team/MirrOS?style=flat-square)](https://github.com/Mirror-Team/MirrOS/blob/master/LICENSE) <!-- 2 spaces -->  
 > [![](https://img.shields.io/badge/discuss-on_github-181717.svg?style=flat-square)](https://github.com/Mirror-Team/MirrOS/discussions)
+
+*We planned a redesign!*
